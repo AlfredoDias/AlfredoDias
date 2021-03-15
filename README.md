@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AlfredoDias
-<!---- 👀 I’m interested in ...--->
 - 💻 I’m developer
 - 🌱 I’m constantly learning about the new technologies that appear on the market
 
 <!---
+- 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
