@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AlfredoDias
 <!---- 👀 I’m interested in ...--->
+- 💻 I’m developer
 - 🌱 I’m constantly learning about the new technologies that appear on the market
 
 <!---
