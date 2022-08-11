@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/AlfredoDias">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlfredoDias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoDias&layout=compact&langs_count=7&theme=dark"/> -->
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoDias&layout=default&langs_count=10&theme=dark"/> -->
 </div>
   
 ###
@@ -15,10 +15,14 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AlfredoDias&theme=dark_dimmed&no-bg=true&column=3&rank=-?" alt="AlfredoDias" />
   </a>
+
+  ![Snake animation](https://github.com/AlfredoDias/AlfredoDias/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-### 
-<div style="display: inline_block" align="center"><br>
+##
+
+###
+<div style="display: inline_block" align="center">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
       <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> 
   </a> 
@@ -55,15 +59,12 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"alt="typescript" width="40" height="40" /> 
   </a>
-<div>
   
-  ##
+  <br>
   
+  ###
   <a href="https://instagram.com/adiasjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/394537792342065162" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alfredodiiasti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alfredo-dias-837068146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/AlfredoDias/AlfredoDias/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<div>
