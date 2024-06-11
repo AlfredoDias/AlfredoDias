@@ -1,5 +1,5 @@
 👋 Hi, I’m Alfredo Dias </br>
-💻 I'm a back end developer transitioning to full stack </br>
+💻 I'm a full stack developer </br>
 🌱 I’m constantly learning about the new technologies that appear on the market 
 
 ###
@@ -16,7 +16,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=AlfredoDias&theme=dark_dimmed&no-bg=true&column=3&rank=-?" alt="AlfredoDias" />
   </a>
 
-  ![Snake animation](https://github.com/AlfredoDias/AlfredoDias/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/AlfredoDias/AlfredoDias/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 
 ##
