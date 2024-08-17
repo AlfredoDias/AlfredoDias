@@ -4,7 +4,7 @@
 
 💡 &nbsp; I've been passionate about technology since I was a child, fascinated by how it has been facilitating and changing our lives.\
 🎓 &nbsp; I work in website and system development to meet the needs of companies, and I'm currently also part of the development of an app that is growing significantly, expanding beyond national borders.\
-🌱 &nbsp; I'm constantly learning, always seeking to stay updated on new trends and the market.\
+🌱 &nbsp; I'm always striving to learn more about new trends and keeping myself updated in the market.\
 ✍️ &nbsp; In my free time, I love to play games and have fun.\
 💬 &nbsp; Feel free to reach out to me for freelance work or just for an interesting discussion.\
 ✉️ &nbsp; You can send me an email at alfredodiiasti@gmail.com!
