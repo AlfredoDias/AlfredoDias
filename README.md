@@ -7,7 +7,7 @@
 🌱 &nbsp; I'm constantly learning, always seeking to stay updated on new trends and the market.\
 ✍️ &nbsp; In my free time, I love to play games and have fun.\
 💬 &nbsp; Feel free to reach out to me for freelance work or just for an interesting discussion.\
-✉️ &nbsp; You can send me an email at alfredodiiasti@gmail.com!\
+✉️ &nbsp; You can send me an email at alfredodiiasti@gmail.com!
 
 <img alt="Coding" width="40%" src="https://res.cloudinary.com/upwork-cloud/video/upload/c_scale,w_1000/v1669620787/catalog/1597129497007431680/dynixi5mm4tuqa3rjvm3.JPEG" align="right"/>
 <br>
@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=FFA518)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue%20Js-05122A?style=flat&logo=vue.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -29,9 +29,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FFFFFF)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;\
 ![Redis](https://img.shields.io/badge/-REDIS-05122A?style=flat&logo=redis)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
