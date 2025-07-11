@@ -49,7 +49,7 @@
 <p align="right">
 <!-- <a href="#"><img src="https://img.shields.io/badge/-AndersonSilva.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/alfredo-dias-837068146/" target="_blank"><img src="https://img.shields.io/badge/-Alfredo Dias-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/adiasdev" target="_blank"><img src="https://img.shields.io/badge/-@adiasdev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/alfredodevmkt" target="_blank"><img src="https://img.shields.io/badge/-@alfredodevmkt-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:alfredodiiasti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-alfredodiiasti@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Alfredo Dias-1877F2?style=flat&logo=Discord&logoColor=white"/></a> -->
 </p>
